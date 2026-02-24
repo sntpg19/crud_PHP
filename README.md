@@ -14,3 +14,23 @@ Proyecto CRUD (Crear, Leer, Actualizar y Eliminar) desarrollado en PHP con conex
 ---
 
 ## 📂 Estructura del proyecto
+PROYECTO_PHP
+│
+├── css/
+│   └── styles.css
+│
+├── includes/
+│   ├── actualizar.php
+│   ├── conexion.php
+│   ├── eliminar.php
+│   ├── guardar.php
+│   ├── listar.php
+│   ├── validaciones.php
+│   └── variables.php
+│
+├── templates/
+│   ├── footer.php
+│   └── header.php
+│
+├── editar.php
+└── index.php
